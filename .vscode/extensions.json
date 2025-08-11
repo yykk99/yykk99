@@ -1,6 +1,6 @@
 {
   "recommendations": [
     "ms-ceintl.vscode-language-pack-ja",
-    "esbenp.prettier-vscode"
+    "davidanson.vscode-markdownlint"
   ]
 }
