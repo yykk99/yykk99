@@ -4,7 +4,7 @@
 
 - 言語：Go、React/Next.js、Node.js、React Native
 - インフラ：GCP、Firebase、Docker、Elastic Search
-- DB: MySQL、PostgreSQL
+- DB：MySQL、PostgreSQL、Firestore
 
 ## 資格
 
