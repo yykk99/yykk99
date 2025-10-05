@@ -1,9 +1,6 @@
-<div align="center">
 <samp>
 
 # 🌸 yykk99
-
----
 
 ## 📚 取得した資格
 
@@ -11,13 +8,13 @@
 
 ---
 
-## 🧠 技術メモ
+## 🧠 技術Note
 
-[🔗 Notion まとめはこちら](https://typical-bloom-2a1.notion.site/yykk99-27784c40a19e80d8a9dadf89aad99bd6)
+- [🔗 Notionまとめ](https://typical-bloom-2a1.notion.site/yykk99-27784c40a19e80d8a9dadf89aad99bd6)
 
 ---
 
-## 💻 使用中の言語
+## 💻 勉強中の言語
 
 - Flutter/Dart
 - Go
@@ -33,4 +30,3 @@
 - 季節を感じること
 
 </samp>
-</div>
