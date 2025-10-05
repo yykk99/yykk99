@@ -8,9 +8,9 @@
 
 ---
 
-## 🧠 技術Note
+## 🧠 技術 Note
 
-- [🔗 Notionまとめ](https://typical-bloom-2a1.notion.site/yykk99-27784c40a19e80d8a9dadf89aad99bd6)
+- [🔗 Notion まとめ](https://typical-bloom-2a1.notion.site/yykk99-27784c40a19e80d8a9dadf89aad99bd6)
 
 ---
 
