@@ -7,6 +7,7 @@
 ## 📚 取得した資格
 
 - 情報セキュリティマネジメント試験（2025/04）
+- AWS Certified Cloud Practitioner（2025/10）
 
 ---
 
