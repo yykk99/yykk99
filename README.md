@@ -12,7 +12,7 @@
 
 ## 🧠 技術ノート
 
-- [🔗 Notion](https://typical-bloom-2a1.notion.site/yykk99-27784c40a19e80d8a9dadf89aad99bd6)
+- 🔗[Notion](https://typical-bloom-2a1.notion.site/yykk99-27784c40a19e80d8a9dadf89aad99bd6)
 
 ---
 
