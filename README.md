@@ -16,15 +16,16 @@
 
 - Flutter
 - Go
-- Nuxt / Vue
-- AWS / GCP
+- Nuxt/Vue
+- AWS/GCP
 
 ---
 
-## 🎀 趣味
+## 🎀 好きなこと
 
 - 散歩に行く
 - 喫茶店に行く
+- ご飯の後のデザート
 - 季節を感じる
 
 </samp>
